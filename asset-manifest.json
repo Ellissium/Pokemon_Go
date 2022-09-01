@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.221ba1f1.css",
+    "main.js": "/static/js/main.f04bcfb6.js",
+    "static/media/Pokemon Hollow.ttf": "/static/media/Pokemon Hollow.47f77ce9939c5330492b.ttf",
+    "static/media/Pokemon Solid.ttf": "/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
+    "index.html": "/index.html",
+    "main.221ba1f1.css.map": "/static/css/main.221ba1f1.css.map",
+    "main.f04bcfb6.js.map": "/static/js/main.f04bcfb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221ba1f1.css",
+    "static/js/main.f04bcfb6.js"
+  ]
+}
