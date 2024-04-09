@@ -1,6 +1,6 @@
 import React from 'react'
+import classes from '../styles/App.module.scss'
 import HeroItem from './HeroItem'
-import classes from '../styles/App.module.css'
 
 const HeroesList = ({ heroes, heroInfo }) => {
     return (
